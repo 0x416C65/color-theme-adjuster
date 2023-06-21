@@ -1,0 +1,14 @@
+{
+  "name": "color-theme-adjuster",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "tsx src/index.ts",
+    "start:dev": "tsx watch src/index.ts"
+  },
+  "dependencies": {
+    "tsx": "^3.12.7",
+    "typescript": "^5.1.3"
+  }
+}
