@@ -29,7 +29,7 @@
     "composite": true,
     "baseUrl": "."
   },
-  "include": ["*.ts", "**/*.ts"],
+  "include": ["*.ts", "**/*.ts", "src/**/*.json"],
   "exclude": ["node_modules"],
   "paths": {
     "*": ["types/*.d.ts"]
