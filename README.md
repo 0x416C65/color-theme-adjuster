@@ -15,7 +15,7 @@ Color Theme Adjuster é um projeto que possibilita a modificação de cores em e
 1. Clone o repositório para sua máquina local:
 
 ```bash
-git clone https://github.com/seu-nome-de-usuario/color-theme-adjuster.git && cd color-theme-adjuster
+git clone https://github.com/0x416c65/color-theme-adjuster.git && cd color-theme-adjuster
 ```
 
 2. Instale as dependências do projeto:
