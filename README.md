@@ -10,24 +10,19 @@ Color Theme Adjuster é um projeto que possibilita a modificação de cores em e
 - Mantém o formato original da cor mesmo após a modificação.
 - Lê e grava arquivos JSON para fácil integração e manipulação.
 
-## Uso
+## Estrutura do Projeto
 
-1. Clone o repositório para sua máquina local:
+O projeto está organizado em duas partes principais: o código da biblioteca e os exemplos de uso.
 
-```bash
-git clone https://github.com/0x416c65/color-theme-adjuster.git && cd color-theme-adjuster
-```
+- `lib/` - Este é o diretório que contém o código principal da biblioteca Color Theme Adjuster.
+- `demo/` - Aqui você encontrará exemplos de como usar a biblioteca. Esses exemplos ajudarão a entender como você pode integrar e usar o Color Theme Adjuster em seu próprio projeto.
 
-2. Instale as dependências do projeto:
+Por favor, note que os exemplos não são incluídos quando você instala a biblioteca via NPM. Eles estão aqui apenas para demonstrar o uso da biblioteca.
 
-```bash
-npm install
-```
+## Instalação
 
-3. Execute o script index.ts:
+Você pode instalar a biblioteca usando o npm:
 
 ```bash
-npm run start
+npm i color-theme-adjuster
 ```
-
-O arquivo JSON modificado será salvo no caminho especificado no script.

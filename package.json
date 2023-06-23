@@ -3,6 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
+  "main": "lib/index.ts",
   "scripts": {
     "start": "tsx src/index.ts",
     "start:dev": "tsx watch src/index.ts"
