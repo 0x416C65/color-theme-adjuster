@@ -33,8 +33,5 @@
     }
   },
   "include": ["*.ts", "**/*.ts", "**/*.json"],
-  "exclude": ["node_modules", "/tmp"],
-  "paths": {
-    "*": ["types/*.d.ts"]
-  }
+  "exclude": ["node_modules", "tmp"]
 }

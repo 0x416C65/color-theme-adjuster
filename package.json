@@ -1,12 +1,16 @@
 {
   "name": "color-theme-adjuster",
-  "private": true,
   "version": "1.0.0",
+  "author": "0x416C65",
   "type": "module",
   "main": "lib/index.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0x416C65/color-theme-adjuster"
+  },
   "scripts": {
-    "start": "tsx src/index.ts",
-    "start:dev": "tsx watch src/index.ts"
+    "dev": "tsx demo/index.ts",
+    "dev:watch": "tsx watch demo/index.ts"
   },
   "dependencies": {
     "@types/node": "^20.3.1",
