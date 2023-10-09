@@ -1,6 +1,6 @@
 # Color Theme Adjuster
 
-Color Theme Adjuster é um projeto que possibilita a modificação de cores em esquemas de cores utilizando valores HSL (Hue, Saturation, Lightness) e Alpha. É útil para experimentar novos esquemas de cores ou criar variações de cores.
+Possibilita a modificação de cores em esquemas de cores utilizando valores HSL (Hue, Saturation, Lightness) e Alpha. É útil para experimentar novos esquemas de cores ou criar variações de cores.
 
 ## Funcionalidades
 
